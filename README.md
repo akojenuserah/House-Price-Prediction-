@@ -1,5 +1,5 @@
 # House-Price-Prediction-
 
-I participated in this project undertaken as a Mini Project during my Women Techsters Fellowship.
+Myself ad two other ladies participated in this project as machine Learning Mini Project during the Women Techsters Fellowship.
 
-It was also a participation i a Kaggle competition.
+It was also a participation in a Kaggle competition.
